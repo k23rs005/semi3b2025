@@ -1,0 +1,22 @@
+body{
+    background-color: #fafad2;
+  }
+  h2 {
+    background-color: #22ccff;
+    font-size: 20pt;
+  }
+  
+  .wrapper {
+    margin-right: auto; 
+    margin-left:  auto; 
+    max-width: 960px;  
+    padding-right: 10px; 
+    padding-left:  10px; 
+  }
+  #navbar {
+    background-color: darkgray;
+    color: white;
+    text-align: right;
+    vertical-align:middle;
+    min-height: 20pt;
+  }
